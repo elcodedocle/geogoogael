@@ -1,0 +1,1 @@
+CREATE DATABASE `geogoogael` /*!40100 COLLATE 'utf8_unicode_ci' */;
