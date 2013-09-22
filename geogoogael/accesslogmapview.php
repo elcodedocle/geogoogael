@@ -31,7 +31,7 @@ class accesslogmapview {
         <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script> 
         <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script> 
         <script type="text/javascript" src="//maps.googleapis.com/maps/api/js?key=<?= appparams::googleMapsApiKey ?>&amp;v=3.exp&amp;sensor=false"></script>
-        <script type="text/javascript" src="//code.highcharts.com/highcharts.js"></script>
+        <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highcharts/3.0.2/highcharts.js"></script>
         <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.4/jquery.dataTables.min.js"></script>
         <script type="text/javascript" src="lib/TableTools.min.js"></script>
         <script type="text/javascript" src="style/DataTablesOnBootstrap.js"></script>
