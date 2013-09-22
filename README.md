@@ -21,7 +21,7 @@ A marvelous piece of software you can roll on your apache web server in order to
 * Error message handling.
 * Fake `access_log` file generator (for testing purposes and show off).
 
-(Because I wanted to see how it'd perfom on huge access_log files, but didn't have any, I ended up overkilling the issue by designing the nastiest, most awesome `access_log` generator the world will ever ignore, using discrete event statistical modeling theory, forked processes and shared memory with signaling and semaphores and all kinds of freaky stuff. Check its code for more info :-))
+(I wanted to see how this app would perfom on huge access_log files, but didn't have any, so I ended up overkilling the issue by designing the nastiest, most awesome `access_log` generator the world will ever ignore, using discrete event statistical modeling theory, forked processes and shared memory with signaling and semaphores and all kinds of freaky stuff. Check its code for more info ;-))
 
 ### UPDATE v0.4 
 
@@ -47,7 +47,7 @@ So, that's it. Check it all out working in this [demo][2].
 
 ## How to install/config/deploy
 
-* Read coments at the beginning of setup.php file.
+* Read coments at the beginning of geogoogael/setup/setup.php file.
 
 ## How to use
 
