@@ -11,13 +11,26 @@ A marvelous piece of software you can roll on your apache web server in order to
 
 ## Change Log
 
-**UPDATE v0.2**: Added a super cool zoomable timeline chart with granularity modulation (visits per minute, hour, day or month).
+### UPDATE v0.2 
 
-**UPDATE v0.3**: Optimized database queries, error messages, fake `access_log` file generator for testing purposes and show off. 
+* Super cool zoomable timeline chart with granularity modulation (visits per minute, hour, day or month).
+
+### UPDATE v0.3 
+
+* Optimized database queries.
+* Error message handling.
+* Fake `access_log` file generator (for testing purposes and show off).
 
 (Because I wanted to see how it'd perfom on huge access_log files, but didn't have any, I ended up overkilling the issue by designing the nastiest, most awesome `access_log` generator the world will ever ignore, using discrete event statistical modeling theory, forked processes and shared memory with signaling and semaphores and all kinds of freaky stuff. Check its code for more info :-))
 
-**UPDATE v0.4**: Client-side input validation, REST-alike clean URLs, masked ips option, optimized access log parsing, HTTPBasicAuth support, and a lot of refactoring.
+### UPDATE v0.4 
+
+* Client-side input validation. 
+* REST-alike clean URLs. 
+* Masked IPs option. 
+* Optimized access log parsing. 
+* HTTPBasicAuth support. 
+* A lot of refactoring.
 
 ## Known Bugs
 
@@ -44,12 +57,12 @@ So, that's it. Check it all out working in this [demo][2].
 
 * Filters on the map markers and chart data points. 
 * Gettext translations. 
-* Support for different access_log formats 
-* .htaccess tweaks 
-* Websockets based real time option (v0.5)
-* Snippety thingy for selective logging (v0.6)
-* Wordpress/drupal plugin 
-* Android client
+* Support for different access_log formats. 
+* .htaccess tweaks. 
+* Websockets based real time option (v0.5).
+* Snippety thingy for selective logging (v0.6).
+* Wordpress/drupal plugin. 
+* Android client.
 
  
 ## Acknowledgments
