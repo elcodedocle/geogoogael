@@ -1,5 +1,5 @@
- Googael Analytics v0.4
- =================
+Googael Analytics v0.4
+======================
 IP based geolocation for Apache access log
 
  Copyright (C) 2013 Gael Abadin<br/>
