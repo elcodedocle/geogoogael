@@ -94,7 +94,7 @@ There you go. Have fun.
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/elcodedocle/geogoogael/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
-[1]: https://githhub.com/elcodedocle/geogoogael/license.txt
+[1]: https://github.com/elcodedocle/geogoogael/blob/master/license.txt
 [2]: https://tester:retset@geovolutions.com/geogoogael/test
 [3]: https://github.com/elcodedocle/geogoogael/fork
 [4]: http://goo.gl/zCDmg5
