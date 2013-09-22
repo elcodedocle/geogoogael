@@ -1,6 +1,6 @@
 Googael Analytics v0.4
 ======================
-IP based geolocation for Apache access log
+####*IP based geolocation for Apache access log*
 
  Copyright (C) 2013 Gael Abadin<br/>
  License: [MIT Expat][1]
