@@ -21,7 +21,7 @@ A marvelous piece of software you can roll on your apache web server in order to
 * Error message handling.
 * Fake `access_log` file generator (for testing purposes and show off).
 
-(I wanted to see how this app would perfom on huge access_log files, but didn't have any, so I ended up overkilling the issue by designing the nastiest, most awesome `access_log` generator the world will ever ignore, using discrete event statistical modeling theory, forked processes and shared memory with signaling and semaphores and all kinds of freaky stuff. Check its code for more info ;-))
+(I wanted to see how this app would perform on huge access_log files, but didn't have any, so I ended up overkilling the issue by designing the nastiest, most awesome `access_log` generator the world will ever ignore, using discrete event statistical modeling theory, forked processes and shared memory with signaling and semaphores and all kinds of freaky stuff. Check its code for more info ;-))
 
 ### UPDATE v0.4 
 
@@ -34,20 +34,20 @@ A marvelous piece of software you can roll on your apache web server in order to
 
 ## Known Bugs
 
-I have not the time or the patience to test this code thorougly so, as Doctor Knuth would say, "I have only proven it correct". Since my skills are nowhere near Doctor Knuth's, beware of the many bugs and help me clean the code by [reporting them][2] (I'll fix anything reported ASAP.) 
+I have not the time or the patience to test this code thoroughly so, as Doctor Knuth would say, "I have only proven it correct". Since my skills are nowhere near Doctor Knuth's, beware of the many bugs and help me clean the code by [reporting them][2] (I'll fix anything reported ASAP.) 
 
 
 ## What this is not
 
 A serious web traffic analytics or maps rendering tool.
 
-If you know all about KPIs, mapnik, geoJSON, PostGIS geometries, etc. you are probably wasting your time here: This is just an amusment, not precisely a proper web analytics tool with an embedded GIS, but if you find it useful and miss any features I'm open to suggestions.
+If you know all about KPIs, mapnik, geoJSON, PostGIS geometries, etc. you are probably wasting your time here: This is just an amusement, not precisely a proper web analytics tool with an embedded GIS, but if you find it useful and miss any features I'm open to suggestions.
 
 So, that's it. Check it all out working in this [demo][2].
 
 ## How to install/config/deploy
 
-* Read coments at the beginning of geogoogael/setup/setup.php file.
+* Read comments at the beginning of geogoogael/setup/setup.php file.
 
 ## How to use
 
@@ -61,7 +61,7 @@ So, that's it. Check it all out working in this [demo][2].
 * .htaccess tweaks. 
 * Websockets based real time option (v0.5).
 * Snippety thingy for selective logging (v0.6).
-* Wordpress/drupal plugin. 
+* Wordpress/Drupal plugin. 
 * Android client.
 
  
@@ -96,7 +96,7 @@ RewriteRule (.*) $1 [L]
 **Q**: To be clear... Is there any advantage on using this over google analytics?<br/>
 **A**: None that I can think of... Nope. None at all.
 
-**Q**: Can I use this code commercialy?<br/>
+**Q**: Can I use this code commercially?<br/>
 **A**: Yes, you can. 
 
 Specifically, this code and the libraries it uses (which you will find on geogoogael/lib folder) have GPLv2 compatible licenses that allow commercial use free of charge, with two notable exceptions: [Google Maps API][6] and [highcharts plugin][7], both with available licensing options for commercial use which are not free of charge (check out the links for pricing). About the geolocation database, it is available for free for commercial use, as long as the terms stated [here][8] are met. 
