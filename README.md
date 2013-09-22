@@ -93,7 +93,7 @@ RewriteRule (.*) $1 [L]
 **Q**: Why did you go all this way instead of just using google analytics?<br/>
 **A**: There may be a better explanation in the foreseeable future, but mainly because I could do it and felt like doing it.
 
-**Q**: To be clear... Is there any advantage on using this over google analytics?</br>
+**Q**: To be clear... Is there any advantage on using this over google analytics?<br/>
 **A**: None that I can think of... Nope. None at all.
 
 **Q**: Can I use this code commercialy?<br/>
