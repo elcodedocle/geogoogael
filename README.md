@@ -71,7 +71,12 @@ Everybody behind this thick fraking stack that makes the awesome possible.
 
 ## Want to contribute?
 
-* [Fork me][3] on github! 
+1. [Fork me][3] on github 
+2. `git checkout -b newbranch` and `git push origin newbranch` your commits
+3. Make a [pull request](https://github.com/elcodedocle/geogoogael/compare/) from your branch
+
+AND/OR
+
 * Buy me a beer! ( [Paypal][4] or [Bitcoin][5]: 15QjBzCVckAwtLK5v95M8GS2tbpnTwKm5B )
 
 ## FAQ
