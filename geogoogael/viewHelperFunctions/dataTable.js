@@ -30,8 +30,10 @@ function dumpTable(data,containerId,tableId){
                     td = document.createElement('td');
                     if (propertyName==='ips'){
                         ip = data[propertyName][index];
-                        if (ip.length>12){//ip is obfuscated
-                            $(td).text(ip.substring(0,9)+'...');
+                        if (ip.length>15){//ip is obfuscated
+                            $(td).text(ip.substring(0,12)+'...');
+                        } else {
+                            $(td).text(ip);
                         }
                     } else if (propertyName==='timestamps') {
                         $(td).text(data[propertyName][index]);
