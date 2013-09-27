@@ -94,7 +94,7 @@ class accesslogmapview {
                                         <?=_("This field is required.");?>
                                     </span>
                                     <span id="pageSizeErrorInvalid" style="display:none;">
-                                        <?=_("Please enter a valid amount (integer between ").appparams::minPageSize._(" and").appparams::maxPageSize._(") of visits per page.");?>
+                                        <?=_("Please enter a valid amount (integer between ").appparams::minPageSize._(" and ").appparams::maxPageSize._(") of visits per page.");?>
                                     </span> 
                                     <?=htmlentities(_("visits per page and session timeout of"));?> 
                                     <input type="text" id="sessionTimeout" name="sessionTimeout" class="sendOnIntro" size="5" value="<?=$filteredData['session_timeout'];?>"/>  
