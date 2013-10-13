@@ -48,7 +48,7 @@ I have not the time or the patience to test this code thoroughly so, as Doctor K
 
 ## How to install/config/deploy
 
-* Read comments at the beginning of geogoogael/setup/setup.php file.
+* Read comments at the beginning of [setup.php](https://github.com/elcodedocle/geogoogael/blob/master/geogoogael/setup/setup.php) file.
 
 ## How to use
 
