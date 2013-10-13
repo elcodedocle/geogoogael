@@ -36,7 +36,7 @@ So, that's it.
 * Error message handling.
 * Fake `access_log` file generator (for testing purposes and show off).
 
-(I wanted to see how this app would perform on huge access_log files, but didn't have any, so I ended up overkilling the issue by designing the nastiest, most awesome `access_log` generator the world will ever ignore, using discrete event statistical modeling theory, forked processes and shared memory with signaling and semaphores and all kinds of freaky stuff. Check its code for more info ;-))
+(I wanted to see how this app would perform on huge access_log files, but didn't have any, so I ended up overkilling the issue by designing the nastiest, most awesome `access_log` generator the world will ever ignore, using discrete event statistical modeling theory, forked processes and shared memory with signaling and semaphores and all kinds of freaky stuff. Check its [code](https://github.com/elcodedocle/geogoogael/blob/master/geogoogael/test/apache_fake_access_log_generator.php) for more info ;-))
 
 ### UPDATE v0.2 
 
