@@ -104,6 +104,6 @@ class accesslogmapcontroller {
             "response_header_HTML_status_code"=>200,
             "response_header_location"=>null
         );
-    } // end public function __construct($method, $data)
+    } // end public static function process($method, $data)
 }
 ?>
