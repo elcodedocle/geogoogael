@@ -35,7 +35,7 @@ class db {
             );
             $this->dbh->setAttribute(PDO::ATTR_EMULATE_PREPARES,false);
             $this->dbh->setAttribute(PDO::ATTR_ERRMODE,PDO::ERRMODE_EXCEPTION);
-        } catch (PDOException $e) {
+        } catch (\PDOException $e) {
             trigger_error("501", E_USER_ERROR);
         }
         return true;
