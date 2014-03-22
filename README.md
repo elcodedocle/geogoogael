@@ -111,7 +111,6 @@ This product includes IP2Location LITE data available from [http://www.ip2locati
 
 There you go. Have fun.
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/elcodedocle/geogoogael/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 [1]: https://github.com/elcodedocle/geogoogael/blob/master/LICENSE
 [2]: http://tester:retset@geovolutions.com/geogoogael/test
