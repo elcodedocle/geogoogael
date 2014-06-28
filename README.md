@@ -4,8 +4,8 @@ Googael Analytics v0.4
 
  Copyright (C) 2013 Gael Abadin<br/>
  License: [MIT Expat][1]<br />
- [![Code Climate](https://codeclimate.com/repos/53aee72869568040fc013763/badges/0f903f9d912a79e3be86/gpa.png)](https://codeclimate.com/repos/53aee72869568040fc013763/feed)
-‎
+ [![Code Climate](https://codeclimate.com/github/elcodedocle/geogoogael.png)](https://codeclimate.com/github/elcodedocle/geogoogael)
+
 ## What this is
 
 A marvelous piece of software you can roll on your apache web server in order to get some geographical info about your site's visitors on a super cool map, chart and table.  Check it all out working in this [demo][2].
