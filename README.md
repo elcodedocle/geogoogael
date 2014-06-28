@@ -3,7 +3,8 @@ Googael Analytics v0.4
 ####*IP based geolocation for Apache access log*
 
  Copyright (C) 2013 Gael Abadin<br/>
- License: [MIT Expat][1]
+ License: [MIT Expat][1]<br />
+ [![Code Climate](https://codeclimate.com/repos/53aee72869568040fc013763/badges/0f903f9d912a79e3be86/gpa.png)](https://codeclimate.com/repos/53aee72869568040fc013763/feed)
 ‎
 ## What this is
 
