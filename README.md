@@ -2,6 +2,8 @@ Googael Analytics v0.4
 ======================
 ####*IP based geolocation for Apache access log*
 
+[![Join the chat at https://gitter.im/elcodedocle/geogoogael](https://badges.gitter.im/elcodedocle/geogoogael.svg)](https://gitter.im/elcodedocle/geogoogael?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
  Copyright (C) 2013 Gael Abadin<br/>
  License: [MIT Expat][1]<br />
  [![Code Climate](https://codeclimate.com/github/elcodedocle/geogoogael.png)](https://codeclimate.com/github/elcodedocle/geogoogael)
